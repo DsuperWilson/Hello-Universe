@@ -1,0 +1,12 @@
+Name		Win	Tie	Lost	Mode
+Wilson Kella	3	4	1	Easy
+Marker Bronz	2	3	2	Hard
+David Christo	5	4	2	Easy
+Huahao Shang	3	1	1	Hard
+Jack Jia		1	1	0	Easy
+Neymar Yang	1	0	0	Hard
+Lucy 	1	2	0	Easy
+yoki	1	0	0	Easy
+Huahao	0	2	0	Hard
+Shang 	1	0	1	Hard
+nice	0	1	1	Hard

@@ -1,0 +1,5 @@
+1. This game is similar to the party game in China, I talked to my friend Frella Zhang about the game rule.
+2. I made some change about the game and the rule for making it like a computer game.
+3.Professor Baruch gived me the idea of reading input file and print to output file
+4. I used a function that can check the click point based on the lab that I learned before.
+5.My roomate Jack Jia played this game few times and pointed out some game rule that can be improved.
